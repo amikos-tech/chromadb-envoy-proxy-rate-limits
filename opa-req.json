@@ -1,0 +1,16 @@
+{
+  "input": {
+    "metadata_key_lengths": [
+      6
+    ],
+    "metadata_value_lengths": [
+      6
+    ],
+    "document_lengths": [
+      1
+    ],
+    "embeddings_dimensions": [
+      1
+    ]
+  }
+}
